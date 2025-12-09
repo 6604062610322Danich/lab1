@@ -12,8 +12,8 @@ int main(){
 	c1 = ((a+b+c)*70)/100;
 	printf("%.2f\n",c1);
 	printf("Payment price %.2f\n",c1+((c1*7)/100));
-	
 	return 0;
 }
+
 
 
